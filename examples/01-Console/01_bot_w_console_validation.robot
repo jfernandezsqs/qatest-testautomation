@@ -12,7 +12,7 @@ ${ERR_COUNT}                        0
 ${WARN_COUNT}                       0
 
 ${MAX_DEPTH_TO_CRAWL}               3
-${MAX_NUMBER_OF_PAGE_TO_CRAWL}      10
+${MAX_NUMBER_OF_PAGE_TO_CRAWL}      15
 
 
 *** Test Cases ***
